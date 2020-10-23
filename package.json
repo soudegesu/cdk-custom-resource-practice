@@ -1,6 +1,7 @@
 {
   "name": "cdk-custom-resource-practice",
   "version": "0.1.0",
+  "private": true,
   "bin": {
     "cdk-custom-resource-practice": "bin/cdk-custom-resource-practice.js"
   },
